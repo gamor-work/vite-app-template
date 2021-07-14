@@ -1,10 +1,12 @@
 {
-  "version": "0.0.0",
+  "name": "@duya/vite-app-template",
+  "version": "0.0.2",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
     "serve": "vite preview"
   },
+  "homepage": "https://github.com/gamor-work/vite-app-template",
   "dependencies": {
     "antd": "^4.16.7",
     "less": "^4.1.1",
