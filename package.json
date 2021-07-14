@@ -1,6 +1,6 @@
 {
   "name": "@duya/vite-app-template",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
